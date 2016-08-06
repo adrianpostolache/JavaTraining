@@ -37,5 +37,5 @@ public class CollaborativeTraining {
         //miracle
         System.out.println("sin(a)*sin(a) + cos(a)*cos(a) = " + (Math.sin(h)* Math.sin(h) + Math.cos(h)* Math.cos(h)));
     }
-    
+   
 }
